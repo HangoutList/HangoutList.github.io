@@ -1,27 +1,28 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Owner: Validash",
+        "link": "https://www.youtube.com/@ValidashGD"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "List Editor: LeeoxGD",
+        "link": "https://www.youtube.com/@LeeoxGD"
+    },
+    {
+        "role": "helper",
+        "name": "TabbyB",
+        "link": "https://www.youtube.com/@TabbyGD"
+    },
+    {
+        "role": "helper",
+        "name": "tFluffy",
+        "link": "#"
+    },
+    {
+        "role": "helper",
+        "name": "Luna",
+        "link": "https://www.youtube.com/@daluckycarpet0244"
     }
+    
 ]
