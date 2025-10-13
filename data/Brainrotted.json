@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Luna",
+            "link": "https://www.youtube.com/watch?v=1xzP5cUApkA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LeeoxGD",
+            "link": "https://www.youtube.com/watch?v=uMK_l0fN1EI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=vHi3xpUKSSY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
