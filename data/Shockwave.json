@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=aHFBL6b2ZBM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Lily",
+            "link": "https://youtu.be/J0HFSmUy3PY?si=9CGRpDLOp9NWiuKw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
